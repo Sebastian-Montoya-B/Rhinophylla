@@ -10,7 +10,7 @@ Disclaimer: You may use this script freely for commercial or non-commercial purp
 
 1.  `Rhinophylla.Rproject`
 2.   `Figure 2.R` -\> Code to reproduce Figure 2
-3.   Fig2.png -\> Exported Figure 2
+3.   `Fig2.png` -\> Exported Figure 2
 4.   `Rhinophylla.csv` -\> Compiled data on the diet of *Rhinophylla*; used to reproduce Figure 2.
 
 ## Feedback
