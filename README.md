@@ -2,6 +2,8 @@
 
 Supplement to: Montoya-Bustamante, S., Zapata-Mesa, N., Murillo-García, O. On the diet of *Rhinophylla alethina* (Chiroptera: Phyllostomidae) and congenerics. Mammalia, 90.
 
+[![DOI](https://zenodo.org/badge/1045849318.svg)](https://doi.org/10.5281/zenodo.17617846)
+
 This script reproduces Figure 2. To use it, first open `Rhinophylla.Rproject`, then open `Figure 2.R` and run the script.
 
 Disclaimer: You may use this script freely for commercial or non-commercial purposes at your own risk. We assume no responsibility or liability for the use of this software, convey no license or title under any patent, copyright, or mask work right to the product. We reserve the right to make changes in the software without notification. We also make no representation or warranty that such application will be suitable for the specified use without further testing or modification. If this script helps you produce any academic work (software, paper, book, chapter, dissertation, thesis, monograph, report, lecture, keynote, talk, poster etc.), please acknowledge the authors and cite this repo and the respective publication.
