@@ -1,6 +1,6 @@
 # Rhinophylla
 
-Supplement to: Montoya-Bustamante, S., Zapata-Mesa, N., Murillo-García, O. On the diet of *Rhinophylla alethina* (Chiroptera: Phyllostomidae) in relation to its congenerics.
+Supplement to: Montoya-Bustamante, S., Zapata-Mesa, N., Murillo-García, O. On the diet of *Rhinophylla alethina* (Chiroptera: Phyllostomidae) and congenerics. Mammalia, 90.
 
 This script reproduces Figure 2. To use it, first open `Rhinophylla.Rproject`, then open `Figure 2.R` and run the script.
 
